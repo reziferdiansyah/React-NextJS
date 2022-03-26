@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
-    <div>
-      <h1>hero disini</h1>
+    <div className="mx-auto text-center">
+      <h1>hero</h1>
     </div>
   );
 }

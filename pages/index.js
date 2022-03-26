@@ -14,7 +14,9 @@ export default function Home() {
       {/* ABOUT */}
       <About />
       {/* PORTOFOLIO */}
-      <Porto />
+      <div className="flex justify-items-center">
+        <Porto />
+      </div>
       {/* FOOTER */}
       <Footer />
     </>

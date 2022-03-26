@@ -7,9 +7,9 @@ export default function Navbar() {
     <>
       {/* NAVBAR */}
       <nav className="relative select-none bg-grey lg:flex lg:items-stretch w-full bg-blue-900">
-        <div className="flex flex-no-shrink items-stretch h-12">
+        <div className="flex flex-no-shrink items-stretch h-14">
           <a
-            href="#"
+            href="#home"
             className="flex-no-grow flex-no-shrink relative py-2 px-4 leading-normal text-white no-underline flex items-center hover:bg-grey-dark"
           >
             Rezi Ferdiansyah
