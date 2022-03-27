@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="mx-auto text-center mt-2">
+    <div className="mx-auto text-center mt-4">
       <h1 className="font-bold text-2xl">About Me</h1>
       <div className="mx-3">
         <p>
